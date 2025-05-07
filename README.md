@@ -1,14 +1,14 @@
-Hi 👋 My name is Pantakan Rungwannarat
+Hi My name is Pantakan Rungwannarat
 ======================================
 
-Fullstack Developer
+Frontend Developer
 -------------------
 
-I'm a web developer with hands-on experience in both frontend and backend development, passionate about transforming ideas into interactive digital experiences. My goal is to grow into a Fullstack Developer who can build seamless, user-friendly applications from start to finish. 
+I'm a web developer with hands-on experience in frontend development, passionate about transforming ideas into interactive digital experiences. My goal is to grow into a frontend developer who can build seamless, user-friendly applications from start to finish. 
 
 I recently graduated from King Mongkut's University of Technology North Bangkok, with practical experience gained during my internship at TERO Entertainment. This experience allowed me to enhance my skills while working within a collaborative team environment. 
 
-I'm currently seeking opportunities to kick-start my career in Fullstack Development where I can leverage my skills to create efficient and impactful solutions. I'm always open to learning and embracing new challenges. Feel free to connect if you'd like to collaborate or exchange ideas!
+I'm currently seeking opportunities to kick-start my career in frontend development where I can leverage my skills to create efficient and impactful solutions. I'm always open to learning and embracing new challenges. Feel free to connect if you'd like to collaborate or exchange ideas!
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Portfolio](http://https://personal-website-cz1teq3qs-pantakan-rungwannarats-projects.vercel.app/)
